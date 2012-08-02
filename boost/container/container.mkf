@@ -1,0 +1,21 @@
+files
+{
+    allocator\allocator_traits.hpp
+    allocator\memory_util.hpp
+    container_fwd.hpp
+    detail\algorithms.hpp
+    detail\allocation_type.hpp
+    detail\config_begin.hpp
+    detail\config_end.hpp
+    detail\iterators.hpp
+    detail\mpl.hpp
+    detail\preprocessor.hpp
+    detail\stored_ref.hpp
+    detail\type_traits.hpp
+    detail\utilities.hpp
+    detail\variadic_templates_tools.hpp
+    detail\version_type.hpp
+    detail\workaround.hpp
+    string.hpp
+}
+

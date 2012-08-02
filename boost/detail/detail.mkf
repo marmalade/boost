@@ -1,0 +1,28 @@
+files
+{
+    atomic_count.hpp
+    binary_search.hpp
+    call_traits.hpp
+    container_fwd.hpp
+    endian.hpp
+    fenv.hpp
+    indirect_traits.hpp
+    interlocked.hpp
+    is_function_ref_tester.hpp
+    iterator.hpp
+    lcast_precision.hpp
+    lightweight_mutex.hpp
+    lightweight_test.hpp
+    lightweight_thread.hpp
+    limits.hpp
+    no_exceptions_support.hpp
+    ob_call_traits.hpp
+    quick_allocator.hpp
+    reference_content.hpp
+    select_type.hpp
+    sp_typeinfo.hpp
+    templated_streams.hpp
+    utf8_codecvt_facet.hpp
+    workaround.hpp
+}
+

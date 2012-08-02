@@ -1,0 +1,17 @@
+files
+{
+    implicit_cast.cpp
+    lexical_cast_abstract_test.cpp
+    lexical_cast_containers_test.cpp
+    lexical_cast_empty_input_test.cpp
+    lexical_cast_float_types_test.cpp
+    lexical_cast_inf_nan_test.cpp
+    lexical_cast_loopback_test.cpp
+    lexical_cast_noncopyable_test.cpp
+    lexical_cast_pointers_test.cpp
+    lexical_cast_typedefed_wchar_test.cpp
+    lexical_cast_typedefed_wchar_test_runtime.cpp
+    lexical_cast_vc8_bug_test.cpp
+    lexical_cast_wchars_test.cpp
+}
+

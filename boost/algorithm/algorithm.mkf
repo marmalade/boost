@@ -1,0 +1,22 @@
+files
+{
+    string\compare.hpp
+    string\concept.hpp
+    string\config.hpp
+    string\constants.hpp
+    string\detail\finder.hpp
+    string\detail\find_format.hpp
+    string\detail\find_format_all.hpp
+    string\detail\find_format_store.hpp
+    string\detail\formatter.hpp
+    string\detail\replace_storage.hpp
+    string\detail\sequence.hpp
+    string\detail\util.hpp
+    string\finder.hpp
+    string\find_format.hpp
+    string\formatter.hpp
+    string\replace.hpp
+    string\sequence_traits.hpp
+    string\yes_no_type.hpp
+}
+

@@ -1,0 +1,14 @@
+files
+{
+    dynamic_link_test.cpp
+    error_code_test.cpp
+    error_code_user_test.cpp
+#    header_only_test.cpp
+    initialization_test.cpp
+    system_error_test.cpp
+    system_msvc\common.vsprops
+    system_msvc\error_code_test\error_code_test.vcproj
+    system_msvc\system_msvc.sln
+    throw_test.cpp
+}
+

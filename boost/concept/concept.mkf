@@ -1,0 +1,13 @@
+files
+{
+    assert.hpp
+    detail\backward_compatibility.hpp
+    detail\borland.hpp
+    detail\concept_def.hpp
+    detail\concept_undef.hpp
+    detail\general.hpp
+    detail\has_constraints.hpp
+    detail\msvc.hpp
+    usage.hpp
+}
+

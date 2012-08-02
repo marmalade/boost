@@ -1,0 +1,22 @@
+files
+{
+    cmdline.hpp
+    config.hpp
+    detail\cmdline.hpp
+    detail\config_file.hpp
+    detail\convert.hpp
+    detail\parsers.hpp
+    detail\utf8_codecvt_facet.hpp
+    detail\value_semantic.hpp
+    environment_iterator.hpp
+    eof_iterator.hpp
+    errors.hpp
+    option.hpp
+    options_description.hpp
+    parsers.hpp
+    positional_options.hpp
+    value_semantic.hpp
+    variables_map.hpp
+    version.hpp
+}
+

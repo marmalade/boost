@@ -1,0 +1,12 @@
+files
+{
+    detail\config_begin.hpp
+    detail\config_end.hpp
+    detail\has_member_function_callable_with.hpp
+    detail\memory_util.hpp
+    detail\mpl.hpp
+    detail\preprocessor.hpp
+    detail\workaround.hpp
+    pointer_traits.hpp
+}
+

@@ -1,0 +1,24 @@
+files
+{
+    connection.hpp
+    detail\config.hpp
+    detail\named_slot_map.hpp
+    detail\signals_common.hpp
+    detail\signal_base.hpp
+    detail\slot_call_iterator.hpp
+    signal0.hpp
+    signal1.hpp
+    signal10.hpp
+    signal2.hpp
+    signal3.hpp
+    signal4.hpp
+    signal5.hpp
+    signal6.hpp
+    signal7.hpp
+    signal8.hpp
+    signal9.hpp
+    signal_template.hpp
+    slot.hpp
+    trackable.hpp
+}
+

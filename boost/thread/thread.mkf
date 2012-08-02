@@ -1,0 +1,47 @@
+files
+{
+    barrier.hpp
+    condition.hpp
+    condition_variable.hpp
+    detail\config.hpp
+    detail\move.hpp
+    detail\platform.hpp
+    detail\thread.hpp
+    detail\thread_group.hpp
+    detail\thread_heap_alloc.hpp
+    detail\thread_interruption.hpp
+    detail\tss_hooks.hpp
+    exceptions.hpp
+    future.hpp
+    locks.hpp
+    mutex.hpp
+    once.hpp
+    pthread\condition_variable.hpp
+    pthread\condition_variable_fwd.hpp
+    pthread\mutex.hpp
+    pthread\once.hpp
+    pthread\pthread_mutex_scoped_lock.hpp
+    pthread\recursive_mutex.hpp
+    pthread\shared_mutex.hpp
+    pthread\thread_data.hpp
+    pthread\thread_heap_alloc.hpp
+    pthread\timespec.hpp
+    recursive_mutex.hpp
+    shared_mutex.hpp
+    thread.hpp
+    thread_time.hpp
+    tss.hpp
+    win32\basic_recursive_mutex.hpp
+    win32\basic_timed_mutex.hpp
+    win32\condition_variable.hpp
+    win32\interlocked_read.hpp
+    win32\mutex.hpp
+    win32\once.hpp
+    win32\recursive_mutex.hpp
+    win32\shared_mutex.hpp
+    win32\thread_data.hpp
+    win32\thread_heap_alloc.hpp
+    win32\thread_primitives.hpp
+    xtime.hpp
+}
+

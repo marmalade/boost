@@ -1,0 +1,14 @@
+files
+{
+    policies\policy.hpp
+    special_functions\detail\fp_traits.hpp
+    special_functions\detail\round_fwd.hpp
+    special_functions\fpclassify.hpp
+    special_functions\math_fwd.hpp
+    special_functions\sign.hpp
+    tools\config.hpp
+    tools\promotion.hpp
+    tools\real_cast.hpp
+    tools\user.hpp
+}
+

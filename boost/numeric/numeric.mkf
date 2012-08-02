@@ -1,0 +1,25 @@
+files
+{
+    conversion\bounds.hpp
+    conversion\cast.hpp
+    conversion\conversion_traits.hpp
+    conversion\converter.hpp
+    conversion\converter_policies.hpp
+    conversion\detail\bounds.hpp
+    conversion\detail\conversion_traits.hpp
+    conversion\detail\converter.hpp
+    conversion\detail\int_float_mixture.hpp
+    conversion\detail\is_subranged.hpp
+    conversion\detail\meta.hpp
+    conversion\detail\numeric_cast_traits.hpp
+    conversion\detail\old_numeric_cast.hpp
+    conversion\detail\preprocessed\numeric_cast_traits_common.hpp
+    conversion\detail\preprocessed\numeric_cast_traits_long_long.hpp
+    conversion\detail\sign_mixture.hpp
+    conversion\detail\udt_builtin_mixture.hpp
+    conversion\int_float_mixture_enum.hpp
+    conversion\numeric_cast_traits.hpp
+    conversion\sign_mixture_enum.hpp
+    conversion\udt_builtin_mixture_enum.hpp
+}
+

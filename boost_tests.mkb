@@ -1,0 +1,33 @@
+defines
+{
+    BOOST_TEST_NO_MAIN
+    BOOST_HAS_THREADS
+    BOOST_ALL_NO_LIB
+    IGNORE_TICKET_2098
+    _BIG_ENDIAN
+    IW_CANARY_UI
+    IW_BUILD_TESTS=1
+}
+
+includepaths
+{
+    ./
+}
+
+options
+{
+    enable-exceptions
+}
+
+subprojects
+{
+    libs\config\test\config_test.mkf
+#    libs\conversion\test\conversion_test.mkf
+    libs\format\test\format_test.mkf
+    libs\regex\test\regex_test.mkf
+    libs\smart_ptr\test\smart_ptr_test.mkf
+    libs\system\test\system_test.mkf
+    boost
+    canary
+}
+

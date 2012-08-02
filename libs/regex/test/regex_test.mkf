@@ -1,0 +1,54 @@
+files
+{
+    auto-link-test\Jamfile
+    captures\captures_test.cpp
+    concepts\concept_check.cpp
+    named_subexpressions\named_subexpressions_test.cpp
+    object_cache\object_cache_test.cpp
+    pathology\bad_expression_test.cpp
+    pathology\recursion_test.cpp
+    profile\Makefile
+    regress\basic_tests.cpp
+    regress\bcb6.mak
+    regress\gcc.mak
+    regress\info.hpp
+    regress\main.cpp
+    regress\sunpro.mak
+    regress\test.hpp
+    regress\test_alt.cpp
+    regress\test_anchors.cpp
+    regress\test_asserts.cpp
+    regress\test_backrefs.cpp
+    regress\test_deprecated.cpp
+    regress\test_deprecated.hpp
+    regress\test_emacs.cpp
+    regress\test_escapes.cpp
+    regress\test_grep.cpp
+    regress\test_icu.cpp
+    regress\test_icu.hpp
+    regress\test_locale.cpp
+    regress\test_locale.hpp
+    regress\test_mfc.cpp
+    regress\test_mfc.hpp
+    regress\test_non_greedy_repeats.cpp
+    regress\test_not_regex.hpp
+    regress\test_operators.cpp
+    regress\test_overloads.cpp
+    regress\test_partial_match.hpp
+    regress\test_perl_ex.cpp
+    regress\test_regex_replace.hpp
+    regress\test_regex_search.hpp
+    regress\test_replace.cpp
+    regress\test_sets.cpp
+    regress\test_simple_repeats.cpp
+    regress\test_tricky_cases.cpp
+    regress\test_unicode.cpp
+    regress\vc6-stlport.mak
+    regress\vc6.mak
+    regress\vc7.mak
+    regress\vc71.mak
+    regress\vc8.mak
+    static_mutex\static_mutex_test.cpp
+    unicode\unicode_iterator_test.cpp
+}
+

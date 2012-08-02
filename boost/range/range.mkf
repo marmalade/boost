@@ -1,0 +1,44 @@
+files
+{
+    algorithm\equal.hpp
+    as_literal.hpp
+    begin.hpp
+    concepts.hpp
+    config.hpp
+    const_iterator.hpp
+    detail\as_literal.hpp
+    detail\begin.hpp
+    detail\common.hpp
+    detail\const_iterator.hpp
+    detail\detail_str.hpp
+    detail\end.hpp
+    detail\extract_optional_type.hpp
+    detail\implementation_help.hpp
+    detail\iterator.hpp
+    detail\misc_concept.hpp
+    detail\remove_extent.hpp
+    detail\safe_bool.hpp
+    detail\sfinae.hpp
+    detail\size_type.hpp
+    detail\str_types.hpp
+    detail\value_type.hpp
+    detail\vc6\end.hpp
+    difference_type.hpp
+    distance.hpp
+    empty.hpp
+    end.hpp
+    functions.hpp
+    iterator.hpp
+    iterator_range.hpp
+    iterator_range_core.hpp
+    iterator_range_io.hpp
+    mutable_iterator.hpp
+    rbegin.hpp
+    rend.hpp
+    result_iterator.hpp
+    reverse_iterator.hpp
+    size.hpp
+    size_type.hpp
+    value_type.hpp
+}
+

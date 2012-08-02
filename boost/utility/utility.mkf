@@ -1,0 +1,17 @@
+files
+{
+    addressof.hpp
+    base_from_member.hpp
+    binary.hpp
+    compare_pointees.hpp
+    declval.hpp
+    detail\in_place_factory_prefix.hpp
+    detail\in_place_factory_suffix.hpp
+    detail\result_of_iterate.hpp
+    enable_if.hpp
+    in_place_factory.hpp
+    result_of.hpp
+    swap.hpp
+    value_init.hpp
+}
+

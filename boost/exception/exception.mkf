@@ -1,0 +1,18 @@
+files
+{
+    current_exception_cast.hpp
+    detail\attribute_noreturn.hpp
+    detail\clone_current_exception.hpp
+    detail\error_info_impl.hpp
+    detail\exception_ptr.hpp
+    detail\is_output_streamable.hpp
+    detail\object_hex_dump.hpp
+    detail\type_info.hpp
+    diagnostic_information.hpp
+    exception.hpp
+    get_error_info.hpp
+    info.hpp
+    to_string.hpp
+    to_string_stub.hpp
+}
+

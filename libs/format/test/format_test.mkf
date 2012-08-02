@@ -1,0 +1,9 @@
+files
+{
+    format_test1.cpp
+    format_test2.cpp
+    format_test3.cpp
+    format_test_enum.cpp
+    format_test_wstring.cpp
+}
+

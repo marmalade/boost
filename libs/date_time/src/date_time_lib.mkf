@@ -1,0 +1,11 @@
+files
+{
+    date_time.doc
+    gregorian\date_generators.cpp
+    gregorian\gregorian_types.cpp
+    gregorian\greg_month.cpp
+    gregorian\greg_names.hpp
+    gregorian\greg_weekday.cpp
+    posix_time\posix_time_types.cpp
+}
+

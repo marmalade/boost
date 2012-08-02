@@ -1,0 +1,30 @@
+files
+{
+    dmc\typeof_impl.hpp
+    encode_decode.hpp
+    encode_decode_params.hpp
+    integral_template_param.hpp
+    int_encoding.hpp
+    message.hpp
+    modifiers.hpp
+    msvc\typeof_impl.hpp
+    native.hpp
+    pointers_data_members.hpp
+    register_functions.hpp
+    register_functions_iterate.hpp
+    register_fundamental.hpp
+    register_mem_functions.hpp
+    template_encoding.hpp
+    template_template_param.hpp
+    typeof.hpp
+    typeof_impl.hpp
+    type_encoding.hpp
+    type_template_param.hpp
+    unsupported.hpp
+    vector.hpp
+    vector100.hpp
+    vector150.hpp
+    vector200.hpp
+    vector50.hpp
+}
+

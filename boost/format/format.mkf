@@ -1,0 +1,22 @@
+files
+{
+    alt_sstream.hpp
+    alt_sstream_impl.hpp
+    detail\compat_workarounds.hpp
+    detail\config_macros.hpp
+    detail\msvc_disambiguater.hpp
+    detail\unset_macros.hpp
+    detail\workarounds_gcc-2_95.hpp
+    detail\workarounds_stlport.hpp
+    exceptions.hpp
+    feed_args.hpp
+    format_class.hpp
+    format_fwd.hpp
+    format_implementation.hpp
+    free_funcs.hpp
+    group.hpp
+    internals.hpp
+    internals_fwd.hpp
+    parsing.hpp
+}
+

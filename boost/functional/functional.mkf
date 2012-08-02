@@ -1,0 +1,13 @@
+files
+{
+    hash\detail\float_functions.hpp
+    hash\detail\hash_float.hpp
+    hash\detail\hash_float_generic.hpp
+    hash\detail\hash_float_x86.hpp
+    hash\detail\limits.hpp
+    hash\extensions.hpp
+    hash\hash.hpp
+    hash\hash_fwd.hpp
+    hash.hpp
+}
+

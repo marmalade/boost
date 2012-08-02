@@ -1,0 +1,69 @@
+defines
+{
+    BOOST_NO_SWPRINTF
+    BOOST_HAS_THREADS
+    BOOST_ALL_NO_LIB
+    IGNORE_TICKET_2098
+    _BIG_ENDIAN
+}
+
+includepaths
+{
+    ./
+}
+
+options
+{
+    enable-exceptions
+}
+
+subprojects
+{
+    boost\algorithm\algorithm.mkf
+    boost\bind\bind.mkf
+    boost\concept\concept.mkf
+    boost\config\config.mkf
+    boost\container\container.mkf
+    boost\date_time\date_time.mkf
+    boost\detail\detail.mkf
+    boost\exception\exception.mkf
+    boost\format\format.mkf
+    boost\function\function.mkf
+    boost\functional\functional.mkf
+    boost\fusion\fusion.mkf
+    boost\integer\integer.mkf
+    boost\intrusive\intrusive.mkf
+    boost\io\io.mkf
+    boost\iterator\iterator.mkf
+    boost\math\math.mkf
+    boost\move\move.mkf
+    boost\mpl\mpl.mkf
+    boost\numeric\numeric.mkf
+    boost\optional\optional.mkf
+    boost\preprocessor\preprocessor.mkf
+    boost\program_options\program_options.mkf
+    boost\proto\proto.mkf
+    boost\range\range.mkf
+    boost\regex\regex.mkf
+    boost\signals\signals.mkf
+    boost\smart_ptr\smart_ptr.mkf
+    boost\system\system.mkf
+    boost\test\test.mkf
+    boost\thread\thread.mkf
+    boost\typeof\typeof.mkf
+    boost\type_traits\type_traits.mkf
+    boost\units\units.mkf
+    boost\utility\utility.mkf
+    boost\xpressive\xpressive.mkf
+    boost\boost_top_level_headers.mkf
+    libs\date_time\src\date_time_lib.mkf
+    libs\exception\src\exception_lib.mkf
+    libs\program_options\src\program_options_lib.mkf
+    libs\regex\src\regex_lib.mkf
+    libs\signals\src\signals_lib.mkf
+    libs\smart_ptr\src\smart_ptr_lib.mkf
+    libs\system\src\system_lib.mkf
+    libs\test\src\test_lib.mkf
+    libs\thread\src\thread_lib.mkf
+}
+
